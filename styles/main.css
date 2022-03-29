@@ -63,7 +63,7 @@ aside img{
 
 html {
 
-    background-color: #ffffff;
+    background-color: #fffded;
 }
 
 img{
@@ -187,7 +187,7 @@ main a:focus, main a:hover{
 /* the styles for the footer */
 
 footer{
-    background-color: #ffffff;
+    background-color: #fffded;
     color: white;
     clear: left;
 }
